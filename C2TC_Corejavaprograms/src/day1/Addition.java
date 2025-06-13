@@ -14,7 +14,7 @@ public class Addition {
 		System.out.println("Enter b:");
 		b = sc.nextInt();
 		c=a+b;
-	System.out.println("Addition of a="+a+" and b="+b+" is c="+c);
+	System.out.println("Addition of a="+a+" and b="+b+" is c="+c)22;
 	}
 
 }
