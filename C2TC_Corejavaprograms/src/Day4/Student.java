@@ -1,4 +1,4 @@
-package Demo;
+package Day4;
 
 public class Student {
 
